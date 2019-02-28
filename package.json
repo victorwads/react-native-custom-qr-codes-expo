@@ -31,6 +31,6 @@
     "prop-types": "^15.5.10"
   },
   "peerDependencies": {
-    "react-native-svg": "^6.2.0"
+    "expo": "^32.0.6"
   }
 }
