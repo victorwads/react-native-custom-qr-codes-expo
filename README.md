@@ -1,5 +1,7 @@
 
-# react-native-custom-qr-codes
+# react-native-custom-qr-codes-expo
+
+<p>A <i>react-native-custom-qr-codes</i> fork that plays ball nicely with Expo
 
 <p align="center">
   <img alt="example-qr-code-1" src="https://raw.githubusercontent.com/nating/react-native-custom-qr-codes/HEAD/assets/qr-code-1.png" width="250">
@@ -16,7 +18,7 @@
 
 ## Installation
 
-`npm install react-native-custom-qr-codes`
+`npm install react-native-custom-qr-codes-expo`
 
 If you are not using Expo, you will also have to manually link the [react-native-svg library](https://github.com/react-native-community/react-native-svg).  
 Follow [the instructions here](https://github.com/react-native-community/react-native-svg#manual) to do this.
@@ -25,7 +27,7 @@ Follow [the instructions here](https://github.com/react-native-community/react-n
 
 
 ```jsx
-import { QRCode } from 'react-native-custom-qr-codes';
+import { QRCode } from 'react-native-custom-qr-codes-expo';
 
 <QRCode content='https://reactnative.com'/>
 ```

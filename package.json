@@ -1,5 +1,5 @@
 {
-  "name": "react-native-custom-qr-codes",
+  "name": "react-native-custom-qr-codes-expo",
   "version": "2.0.0",
   "main": "index.js",
   "description": "A customisable QR code component for React Native applications.",
@@ -18,13 +18,13 @@
     "email": "nating@tcd.ie",
     "url": "https://github.com/nating"
   },
-  "homepage": "https://github.com/nating/react-native-custom-qr-codes",
+  "homepage": "https://github.com/eddyoc/react-native-custom-qr-codes-expo",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nating/react-native-custom-qr-codes.git"
+    "url": "git://github.com/eddyoc/react-native-custom-qr-codes-expo.git"
   },
   "bugs": {
-    "url": "https://github.com/nating/react-native-custom-qr-codes/issues"
+    "url": "https://github.com/eddyoc/react-native-custom-qr-codes-expo/issues"
   },
   "license": "MIT",
   "dependencies": {
