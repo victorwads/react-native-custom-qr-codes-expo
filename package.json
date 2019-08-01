@@ -1,6 +1,6 @@
 {
   "name": "react-native-custom-qr-codes-expo",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "main": "index.js",
   "description": "A customisable QR code component for React Native applications. Compatible with Expo",
   "keywords": [
